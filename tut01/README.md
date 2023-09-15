@@ -3,7 +3,7 @@ Student Number: 300105373 \
 Submission For: SEG 4105 Tutorial 1 - Blogpost
 
 ## Brainstorming
-- "PM" can stand for "project management", "project manager", "product manager", "portfolio manager", "prime minister"
+- "PM" can stand for "project management", "project manager", "product manager", "project marketing", "portfolio manager", "prime minister"
 - A meme/cartoon about a person applying for the job of "PM" and ends up in a ridiculous role unrelated to his background (e.g. project manager becoming prime minister)
 
 ## Research
