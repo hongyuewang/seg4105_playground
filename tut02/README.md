@@ -9,5 +9,5 @@ When shaping the work, we can't be too vague or too concrete. Specific work hind
 The first step to shaping is setting boundaries by determining if the idea is something we would be able to invest time in as well as if it is necessary. This is called setting the appetite and it is the opposite of an estimate. Instead of starting with a design and ending with a time, we start with a fixed time constraint and end with a design that fits within said time frame. There is no absolute definite of "good", only the "best" relative to your constraints. It's important to not immediately accept or reject ideas that we don't fully understand but instead respond with a soft "no" or "maybe someday" to leave all options open. We also need to narrow down our understanding of the problem, which can reduce the amount of work.
 
 # Chapter 4
-
+To convert a problem in words into a software solution with elements, we must design at the right level of abstraction. A way of doing this is by breadboarding, which is essentially fleshing out components and connections without a particular visual design. However, for ideals that are more visual, fat marker sketches. They are sketches made with such broad strokes that adding details is difficult or impossible. 
 # Chapter 5
