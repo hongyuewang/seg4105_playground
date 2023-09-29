@@ -1,0 +1,5 @@
+Name: Hong Yue Wang \
+Student Number: 300105373 \
+Submission For: SEG 4105 Tutorial 3 - Pitch
+
+Kimberly Rhodes interviews the co-founders of 37signals: Jason Fried and David Heinemeier Hansson. They discuss the Shape Up principle of writing a pitch. They explain that a pitch is essentially a guiding document that outlines an idea for new features of a product, the problems the features aim to address and the possible solutions. It's neither too specific nor too vague. They also talk about the importance of autonomy and they highlight how pitches help workers stay focused on the core aspects of a project. They mention "rabbit holes", which are essentially situations where too much effort is spent on minor and useless details. They also mention "science projects" which refer to ambitious endeavors with uncertain outcomes. They also talk about "tracer bullets", a method to explore challenging parts of the project before spending time on it.
