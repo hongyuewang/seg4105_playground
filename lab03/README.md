@@ -12,6 +12,7 @@ It will not be possible rebuild the entire application as a desktop application 
 We will create a desktop application using Electron, a free and open-source frameworks designed to create desktop applications using JavaScript or TypeScript. Electron is compatible with Windows, macOS and Linux, which makes it an ideal choice in terms of compatibility. This Electron application will include similar UI from the web application, but modified to fit Electron's environment. This iteration of the desktop application will center around the Profiles page with its default profiles and keybinds. The sign-in, account settings and overlays will be omitted from now since our main focus is to make the connection to the hardware via desktop application accesible to our client.
 ## Fat Marker Sketch
 ![Fat Marker Sketch](fat_marker.png)
+## Breadboarding
 ![Breadboarding](breadboarding.png)
 # Rabbit Holes
 We will ensure that the Electron application is generated in TypeScript, the same as the web application, instead of plain JavaScript and that it uses React to avoid having to translate code form one language/framework to another. We will ensure the application does not stray away from the web app's UI and UX to make the transition seemless for the client. We will ensure that the Profiles page is accessible without authentication.
