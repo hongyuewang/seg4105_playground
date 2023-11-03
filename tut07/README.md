@@ -1,36 +1,34 @@
 # Daily stand-up
 
-The Daily Scrum is a vital 15-minute time-boxed event within the Scrum framework, primarily meant for the Development Team. This daily meeting is conducted during each day of the Sprint to facilitate efficient planning and collaboration. Its key objectives are to optimize team performance by reviewing the work done since the last Daily Scrum and projecting work for the upcoming 24 hours. Consistency is maintained by holding the Daily Scrum at the same time and place every day, reducing complexity and making it a routine part of the development process.
+Scrum is a dynamic framework designed to address complex problems and deliver value by using structured, time-bound iterations called Sprints. It encompasses a Scrum Team composed of a Scrum Master, Product Owner, and Developers, typically consisting of 10 or fewer members. The Product Owner prioritizes tasks in the Product Backlog, and the team collaborates to transform them into valuable increments of work during Sprints. After each Sprint, stakeholders participate in reviews to make adjustments based on empirical data, aligning with principles of collective intelligence and lean thinking.
 
-The primary purposes of the Daily Scrum include inspecting progress towards achieving the Sprint Goal and assessing how the progress aligns with completing the tasks in the Sprint Backlog. It plays a crucial role in enhancing the probability of the Development Team successfully meeting the Sprint Goal. Every day, the Development Team is expected to clarify how they plan to collaborate as a self-organizing unit, with the shared objective of achieving the Sprint Goal and delivering the anticipated Increment by the end of the Sprint.
+Scrum places a strong emphasis on transparency, making both the work and the process visible to all involved. Guided by five core values—commitment, focus, openness, respect, and courage—Scrum Teams encourage collaboration and informed decision-making. The iterative nature of Sprints ensures that innovative ideas consistently evolve into valuable solutions. Effective Sprint planning involves defining the Sprint's value, setting achievable goals, and determining the work approach, creating a purpose-driven and adaptable environment for teams. In summary, Scrum is a robust framework for addressing complex challenges, promoting continuous improvement, and ensuring data-driven decision-making.
 
-The structure and format of the Daily Scrum are flexible and determined by the Development Team. The key focus should be on making progress towards the Sprint Goal. Teams may use various approaches, such as asking specific questions or engaging in open discussions. A common set of questions that can be used includes:
+The 'Daily Scrum' section delves into the specifics and the overall purpose of this daily meeting. The Daily Scrum, held at the same time each day for simplicity, involves each member reporting their current progress on Sprint tasks. This enhances team collaboration and performance by introducing daily touchpoints for discussing progress and challenges. It increases the likelihood of meeting the Sprint goal and allows the Development Team, which oversees the planning and guides the meeting, to assess the progress of the sprint backlog work.
 
-What tasks did I complete yesterday that contributed to the Sprint Goal?
-What are my plans for today to support the Sprint Goal?
-Do I encounter any impediments or obstacles that could hinder me or the team from reaching the Sprint Goal?
-Following the Daily Scrum, it's common for the Development Team or its individual members to convene for further in-depth discussions, adapt their strategies, or replan the remaining work for the Sprint.
+In terms of roles, the Development team oversees the Scrum, guiding and adjusting plans after each meeting as necessary. The Scrum Master ensures the meeting occurs and remains within the allotted 15 minutes. While others may participate in the meetings, they are requested by the Scrum Master not to interrupt.
 
-While the Scrum Master ensures that the Daily Scrum takes place, it is the Development Team's responsibility to conduct the meeting. The Scrum Master, in this context, serves as a facilitator and coach, guiding the team to stay within the 15-minute time-box. This ensures that the Daily Scrum remains focused and efficient.
+Daily Scrums enhance communication, reduce the need for other meetings, identify impediments to development for removal, facilitate quick decision-making, and enhance the Development Team's knowledge. This meeting is a critical step in inspecting and adapting.
 
-Importantly, the Daily Scrum is an internal meeting intended exclusively for the Development Team. If there are observers or stakeholders present, the Scrum Master safeguards the integrity of the meeting by ensuring they do not disrupt the proceedings.
+In summary, Daily Scrums improve teamwide communication and eliminate unnecessary meetings. They highlight significant work done and issues, promoting knowledge sharing within the team, making it an excellent 'inspect and adapt' meeting.
 
-The benefits of the Daily Scrum are numerous. It enhances communication within the Development Team, reduces the need for additional meetings, identifies impediments to development that can be addressed promptly, promotes quick decision-making, and boosts the team's collective knowledge. It plays a critical role in the Scrum framework as an opportunity for continuous inspection and adaptation, helping teams make necessary adjustments and improvements throughout the Sprint.
+Scrum enhances quality and transparency through key artifacts. The Product Backlog outlines work for product improvement aligned with the Product Goal. The Sprint Backlog focuses on Sprint objectives, and the Increment represents a usable step toward the Product Goal, adhering to the Definition of Done for quality assurance within the Scrum Team.
 
 # How to show progress
 
-As a developer, you can employ the "hill chart" concept to effectively illustrate your task progress in a project:
-
-1. Task Segmentation: Begin by breaking down your work into smaller, more manageable segments or scopes.
-
-2. Visualize progress: Construct a hill chart wherein each scope is depicted as a point on the hill. The left side of the hill signifies uncertainty (uphill), while the right side signifies execution (downhill).
-
-3. Track Your Progress: Shift the points on the hill chart as you make headway. Start at the bottom left (uncertainty), and progress to the right (execution) as you grow more confident in your approach and complete tasks.
-
-4. Prevent Premature Progress: Refrain from relocating a scope to the top of the hill prematurely. Ensure that you've validated your approach and gained sufficient confidence before considering a scope as "solved."
-
-5. Prioritization: Concentrate on addressing the most vital and uncertain tasks first, saving routine or less concerning work for later stages of the project.
-
-6. Use the Hill Chart for Communication: The hill chart can function as a visual representation of your progress, simplifying discussions about your work with managers and team members.
-
-By employing the hill chart method, you can effectively demonstrate your progress and convey the status of your tasks, eliminating the need for conventional status updates or estimates.
+- Task lists don't work well for showing how things are going. If your task list is empty, it doesn't mean there's no more work; the team might know there's more to do, but they haven't figured out what it is yet (these are called undiscovered tasks).
+- Imagined tasks vs actual tasks. Imagine making a checklist and checking off items as you complete them. But in reality, you discover new things you need to do as you go along. So, instead of the list getting shorter, it might get longer. To understand this, you need more information about the work and what it means for tasks to be done.
+there’s more work but haven’t defined the tasks yet ie. the tasks have been undiscovered
+- Imagined vs. discovered tasks – hypothetically, we have someone populate a to-do with items that are gradually checked off. But in real like, the team discovers more things they need to do as they work on the project. Leads to to-do lists actually growing instead of shrinking as project progress; no way to know if the number of outstanding tasks increase or decrease. To know that, you’d need more context on the work inside the scope to understand what it means that those particular tasks are done and whether others might still be coming.
+- It’s not meaningful to write “4 hours, or maybe 3 days” as the estimated time to complete a task. Basecamp came up with a way to see the status of the project without counting tasks and without numerical estimates. We do that by shifting the focus from what’s done or not done to what’s unknown and what’s solved. To enable this shift, we use the metaphor of the hill.
+- Every piece of work has two phases. First there’s the uphill phase of figuring out what our approach is and what we’re going to do. Then, once we can see all the work involved, there’s the downhill phase of execution.
+- The uphill phase is full of uncertainty, unknowns, and problem solving.
+- The downhill phase is marked by certainty, confidence, seeing everything, and knowing what to do.
+- We can combine the hill with the concept of scopes. The scopes give us the language for the project (“Locate,” “Reply”) and the hill describes the status of each scope (“uphill,” “downhill”).
+- Basecamp has a feature to create hill charts. Team members can intuitively place the scopes on the hill charts and managers can view these hill charts, compare them to past hill charts, and judge what’s in motion and what’s stuck. No need to interrupt teams for status updates
+- Hill charts allow people to communicate that they are stuck on something without saying it outloud. People don’t like to admit that they “don’t know” something, and if this isn’t communicated, it can lead to accumulated risk and endanger the project.
+- Seeing that a scope is stuck on an “uphill” can lead to refactoring of the scope ex: the scope that is stuck on an uphill may not actually be stuck, instead, the scope could be broken down into multiple scopes.
+- It’s good to think of the first third uphill as “I’ve thought about this,” the second third as “I’ve validated my approach,” and the final third to the top as “I’m far enough with what I’ve built that I don’t believe there are other unknowns.”
+-  We can use the hill chart to sequence the work— which problems to solve in which order. Some scopes are riskier than others.
+- It’s better to get a few critical scopes over the top early in the project and leave the screw-tightening for later.
+- Effective teams sequence their problem solving in the same way. They choose the most important problems first with the most unknowns, get them to the top of the hill, and leave the things that are the most routine or least worrisome for last. As the end of the cycle approaches, teams should have finished the important things and left a variety of “nice to haves” and “maybes” lingering around.
