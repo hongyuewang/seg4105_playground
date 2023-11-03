@@ -4,7 +4,7 @@ Submission For: SEG 4105 Lab 7 Stand-up
 
 # Stand-up notes
 
-Recently, I have worked on various stories. Firstly, I fixed the longstanding issue of the sidebar cutting off when the application is scrolled down. I have fixed the flow of the web application when the user is signed out, directing them to the sign in page if they try to access any restricted pages. Furthermore, I have created the base files for the Electron desktop application and is working on the routing. I will keep working on those tasks and I do not have any blockers.
+Recently, I have worked on various stories. Firstly, I fixed the longstanding issue of the sidebar cutting off when the application is scrolled down. I have fixed the flow of the web application when the user is signed out, directing them to the sign in page if they try to access any restricted pages. Furthermore, I have created the base files for the Electron desktop application and is working on the routing. Afterwards, I will integrate all existing pages from the web app. I will keep working on those tasks and I do not have any blockers.
 
 # Hill chart
 
