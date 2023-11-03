@@ -12,8 +12,11 @@ Recently, I have worked on various stories. Firstly, I fixed the longstanding is
 
 # Pull request summary
 https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/pull/32
-https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/pull/30 
+
+https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/pull/30
+
 https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/pull/28 
+
 Pull request in progress for Electron routing
 
 # Meeting schedule
@@ -21,6 +24,9 @@ Pull request in progress for Electron routing
 Thursday, November 2 2023 2:30 PM - 3:30 PM: https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/blob/main/Minutes.md#november-2-2023-230---330-pm 
 
 Thursday, November 9 2023 5:00 PM - 6:00 PM
+
 Thursday, November 16 2023 5:00 PM - 6:00 PM
-Thursday, November 23 2023 2:30 PM - 3:30 PM
-Thursday, November 30 2023 2:30 PM - 3:30 PM
+
+Thursday, November 23 2023 5:00 PM - 6:00 PM
+
+Thursday, November 30 2023 5:00 PM - 6:00 PM
